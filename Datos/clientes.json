@@ -1,0 +1,106 @@
+[
+  {
+    "IdCliente": "CC-0001",
+    "DescripcionCliente": "Verano Calzado S.A."
+  },
+  {
+    "IdCliente": "CC-0002",
+    "DescripcionCliente": "Legumbres del Campo S.R.L."
+  },
+  {
+    "IdCliente": "CC-0003",
+    "DescripcionCliente": "Higiene Total S.A."
+  },
+  {
+    "IdCliente": "CC-0004",
+    "DescripcionCliente": "Construcciones Seguras S.R.L."
+  },
+  {
+    "IdCliente": "CC-0005",
+    "DescripcionCliente": "Bebidas Carbonatadas Ltda."
+  },
+  {
+    "IdCliente": "CC-0006",
+    "DescripcionCliente": "Seguridad y Protección S.A."
+  },
+  {
+    "IdCliente": "CC-0007",
+    "DescripcionCliente": "Confort y Descanso S.R.L."
+  },
+  {
+    "IdCliente": "CC-0008",
+    "DescripcionCliente": "Lácteos del Valle S.A."
+  },
+  {
+    "IdCliente": "CC-0009",
+    "DescripcionCliente": "Materiales Construcción Ltda."
+  },
+  {
+    "IdCliente": "CC-0010",
+    "DescripcionCliente": "Ferretería y Herramientas S.R.L."
+  },
+  {
+    "IdCliente": "CC-0011",
+    "DescripcionCliente": "Papelería y Útiles S.A."
+  },
+  {
+    "IdCliente": "CC-0012",
+    "DescripcionCliente": "Dulces y Confites S.R.L."
+  },
+  {
+    "IdCliente": "CC-0013",
+    "DescripcionCliente": "Repostería del Hogar S.A."
+  },
+  {
+    "IdCliente": "CC-0014",
+    "DescripcionCliente": "Chocolates del Mundo S.R.L."
+  },
+  {
+    "IdCliente": "CC-0015",
+    "DescripcionCliente": "Alimentos Básicos S.A."
+  },
+  {
+    "IdCliente": "CC-0016",
+    "DescripcionCliente": "Pastas y Delicias S.R.L."
+  },
+  {
+    "IdCliente": "CC-0017",
+    "DescripcionCliente": "Aceites y Cocina S.A."
+  },
+  {
+    "IdCliente": "CC-0018",
+    "DescripcionCliente": "Bebidas del Mundo Ltda."
+  },
+  {
+    "IdCliente": "CC-0019",
+    "DescripcionCliente": "Tés y Bebidas S.A."
+  },
+  {
+    "IdCliente": "CC-0020",
+    "DescripcionCliente": "Higiene Personal S.R.L."
+  },
+  {
+    "IdCliente": "CC-0021",
+    "DescripcionCliente": "Cuidado Dental S.A."
+  },
+  {
+    "IdCliente": "CC-0022",
+    "DescripcionCliente": "Cuidado Personal S.R.L."
+  },
+  {
+    "IdCliente": "CC-0023",
+    "DescripcionCliente": "Horminon S.R.L"
+  },
+  {
+    "IdCliente": "CC-0024",
+    "DescripcionCliente": "Conos S.A."
+  },
+  {
+    "IdCliente": "CC-0025",
+    "DescripcionCliente": "Terranova"
+  },
+  {
+    "IdCliente": "CC-0026",
+    "DescripcionCliente": "Vaquita"
+  }
+]
